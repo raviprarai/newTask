@@ -37,8 +37,7 @@ newTaskApi/
 Backend Setup (Express)
 
 # 1. clone & install
-$ git clone https://github.com/your‑org/project‑management.git
-$ cd project‑management/backend
+$ git clone https://github.com/raviprarai/newTask.git
 $ npm install      # or npm 
 
 # 3. (optional) seed demo data
@@ -62,7 +61,7 @@ Tasks → 3 each project (todo, in‑progress, done)
 
 🌐 Live Demo (optional)
 
-API – Render API demo
+API – https://newtask-w5d0.onrender.com/
 
 © License
 
